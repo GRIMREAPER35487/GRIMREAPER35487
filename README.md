@@ -5,7 +5,7 @@
 <br/><br/>
 
 <a href="https://grimreaper35487.github.io/Synthos-VRC-Packages/">
-  <img src="https://raw.githubusercontent.com/GRIMREAPER35487/GRIMREAPER35487/main/assets/btn_browse_vpm.png?v=1" alt="Browse VPM Repository" height="48" />
+  <img src="https://raw.githubusercontent.com/GRIMREAPER35487/GRIMREAPER35487/main/assets/btn_browse_vpm.png?v=2" alt="Browse VPM Repository" height="46" />
 </a>
 
 <br/><br/>
