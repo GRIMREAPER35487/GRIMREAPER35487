@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GRIMREAPER35487/GRIMREAPER35487/main/assets/profile_banner.png" alt="Synthos Profile Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/GRIMREAPER35487/GRIMREAPER35487/main/assets/banner.png?v=2" alt="Synthos Profile Banner" width="100%" />
 
 <br/><br/>
 
