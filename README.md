@@ -20,18 +20,6 @@
 
 ---
 
-### Featured Packages and Tooling
-
-| Package | Description | Focus |
-| :--- | :--- | :--- |
-| [**VRC-Batch-Uploader**](https://github.com/GRIMREAPER35487/VRC-Batch-Uploader) | Unattended multi-avatar batch uploader with multi-platform synchronization (PC / Android / iOS), blendshapes, and material overrides. | Automation |
-| [**SynSceneOptimiser**](https://github.com/GRIMREAPER35487/SynSceneOptimiser) | Non-destructive scene and world optimization suite with texture VRAM budgets, mesh merging, and lightmap preserving. | Performance |
-| [**Meshia.MeshSimplification**](https://github.com/GRIMREAPER35487/Meshia.MeshSimplification-Synthos) | Standalone, Burst-accelerated mesh decimation library for high-speed polygon reduction. | Burst / Core |
-| [**SynFrameDebugger**](https://github.com/GRIMREAPER35487/SynFrameDebugger) | Unity Frame Debugger events, draw calls, shader properties, and batching breakdown exporter. | Diagnostics |
-| [**Synthos-VRC-Packages**](https://github.com/GRIMREAPER35487/Synthos-VRC-Packages) | Official VPM package repository and listing website serving all Synthos releases. | Ecosystem |
-
----
-
 ### Tech Stack
 
 <p align="left">
