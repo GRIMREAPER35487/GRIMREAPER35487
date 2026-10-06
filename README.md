@@ -19,7 +19,7 @@
 ### About Me
 
 - Cybersecurity student at the University of Central Florida (UCF).
-- Building high-performance Unity editor extensions, VRChat world/avatar automation tooling, and graphics diagnostics.
+- Building high-performance VR, VRChat, and Unity editor extensions, automation tooling, and graphics diagnostics.
 - Focused on non-destructive architectures, Burst-accelerated libraries, and seamless multi-platform pipelines.
 
 ---
