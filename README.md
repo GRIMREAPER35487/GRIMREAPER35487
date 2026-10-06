@@ -41,7 +41,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Unity-161616?style=for-the-badge&logo=unity&logoColor=6091C2" alt="Unity" />
   <img src="https://img.shields.io/badge/C%23-161616?style=for-the-badge&logo=csharp&logoColor=6091C2" alt="C#" />
-  <img src="https://img.shields.io/badge/Burst_Compiler-161616?style=for-the-badge&logo=fastapi&logoColor=CCA06C" alt="Burst" />
   <img src="https://img.shields.io/badge/VRChat_SDK3-161616?style=for-the-badge&logo=vrchat&logoColor=CCA06C" alt="VRChat" />
   <img src="https://img.shields.io/badge/Python-161616?style=for-the-badge&logo=python&logoColor=6091C2" alt="Python" />
   <img src="https://img.shields.io/badge/C++-161616?style=for-the-badge&logo=cplusplus&logoColor=6091C2" alt="C++" />
